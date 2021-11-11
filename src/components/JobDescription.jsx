@@ -3,7 +3,7 @@ import { Accordion } from 'react-bootstrap'
 
 const data = [
   {
-    title: 'One',
+    title: 'Job Description',
     content: `Lorem ipsum dolor sit amet,
                   consectetur adipiscing elit,
                   sed do eiusmod tempor incididunt
@@ -19,7 +19,7 @@ const data = [
                   mollit anim id est laborum.`
   },
   {
-    title: 'Two',
+    title: 'Requirement',
     content: `Lorem ipsum dolor sit amet,
                   consectetur adipiscing elit,
                   sed do eiusmod tempor incididunt
@@ -35,7 +35,7 @@ const data = [
                   mollit anim id est laborum.`
   },
   {
-    title: 'Three',
+    title: "Developer's contacts",
     content: `Lorem ipsum dolor sit amet,
                   consectetur adipiscing elit,
                   sed do eiusmod tempor incididunt
@@ -114,8 +114,8 @@ class CompsJobDescription extends React.Component {
             ? 'content-text content-text-open'
             : 'content-text'}
           >
-            <ul>
-              <li>hi</li>
+            <ul id="">
+              <li>hiqqqqqqqqqqqqqyuioptyuioyuiqqqqqqqqqqqqqqqqqqqqqqqqwqwertyuqwertyuioqwertyuiop</li>
               <li>hi</li>
               <li>hi</li>
               <li>hi</li>

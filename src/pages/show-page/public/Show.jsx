@@ -103,7 +103,7 @@ class PagesPublicShow extends React.Component {
           renderGIF('CaV9J0VUJ1q3gVUrYG')
         }
 
-        <div id="showpage-carousel-and-description-container" className=" my-1">
+        <div id="showpage-carousel-and-game-description-container">
           <Row>
             <Col xs={6}>
               <div id="showpage-carousel-container">
@@ -112,7 +112,7 @@ class PagesPublicShow extends React.Component {
             </Col>
 
             <Col xs={6}>
-              <div id="showpage-description-container">
+              <div id="showpage-game-description-container">
                 <h2>Description: </h2>
                 {/* <article>
                     <p>{game.description}</p>
